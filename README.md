@@ -1,0 +1,1 @@
+so far im larning to use odin github.learning hot to load things back and forth or accecing from my machine to github. im learning how to use github.
